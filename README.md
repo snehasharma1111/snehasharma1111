@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sneha Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
 - 🔭 I’m currently working on [Planner](https://github.com/snehasharma1111/planner)
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently working in WebMD as an Associate Software Engineer.
 
 - 👨‍💻 All of my projects are available at [https://snehasharma1111.github.io](https://snehasharma1111.github.io)
 
-- 💬 Ask me about **Web Development, C++**
+- 💬 Ask me about **Web Development, Performance Optimization, Grafana, Kibana**
 
 - 📫 How to reach me **snehasharma9205@gmail.com**
 
