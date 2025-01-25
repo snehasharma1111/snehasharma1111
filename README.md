@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **snehasharma9205@gmail.com**
 
-- 📄 Know about my experiences [Click Here](https://snehasharma1111.github.io/resume.html)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1Bj_zZ3iVoEQaCWS_R-Ngn8FpbAJdkXey/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
